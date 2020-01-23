@@ -25,7 +25,7 @@ require (
 	golang.org/x/net v0.0.0-20191126235420-ef20fe5d7933 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v2 v2.2.7
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 go 1.13
