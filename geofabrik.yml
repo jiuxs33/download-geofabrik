@@ -1,4 +1,4 @@
-baseURL: https://download.geofabrik.de
+baseURL: http://192.168.31.21:8086
 formats:
   kml:
     ext: kml
